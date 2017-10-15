@@ -1,0 +1,20 @@
+	// Made by Volodomyr Shenhofer
+  // This vocabulary was made to explain things in out project, don’t take it as a // clear definition of real terms listed below.
+
+1.	Admin Panel – interface for managing our site, creating and modifying everything that has to be modified. 
+2.	Business Manipulation –Users, while searching for restaurant with special criteria, may get suggested restaurants, that are not on top position in ranking, but was rated high by different user(s), that have same(or close to same) preferences.
+3.	Business Model - restaurant's plan for how it will generate revenues and make a profit on our site. It may include buying the highest possible spot in the search or advertising.  
+4.	Discounts – restaurants may have special propositions for its customers. 
+5.	Favorites List – just a list every user may have, where Restaurants specified as “Favorite” are shown.
+6.	Filtering – all restaurants can be filtered by specific criteria: Type of Kitchen, Region/Street, Prices 
+7.	Grading – all restaurants and can be graded by users in 0-5 scale. Grades can be given to restaurant as a whole as well as to each of categories: Kitchen, interior, waiting time, service.
+8.	Menu – well, it’s a menu, a list of food restaurant may offer.
+9.	News – each restaurant owner can post news about everything related to his restaurant.
+10.	Ordering Food – our site is providing a possibility to order food online from every restaurant that has this type of service.
+11.	Pricing – just part of a menu, everything has a price.
+12.	Ranking System – all restaurants and recipes will be ranked in order of grades and reviews they received from Users (or by other criteria specified in the filter). Of course, it doesn’t relate to companies that have bought a spot at top (see Business Model).
+13.	Recipes – set of instructions how to prepare a culinary dish. Can be added by users.
+14.	Restaurant Details – all restaurant owners has to specify a basic information about restaurant: photo, address, phone number, type of kitchen,  
+15.	Restaurant Owners – users that were given admin rights on certain restaurant page and can modify information about it.
+16.	Reviews – apart from grading restaurants, users can make a review for every restaurant and recipe as well as grading other user’s reviews.
+17.	Table Reservation – users will have a possibility to reserve tables at restaurants.
